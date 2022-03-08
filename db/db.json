@@ -1,6 +1,15 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"This is a test title",
+        "text":"This is a test"
+    },
+    {
+        "title":"Shopping List",
+        "text":"milk, eggs, break, apples, orange juice"
+
+    },
+    {
+        "title": "To Do List",
+        "text": "get haircut, buy groceries, pick up dry cleaning, wash the car"
     }
 ]
