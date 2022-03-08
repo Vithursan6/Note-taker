@@ -81,7 +81,6 @@ https://sleepy-escarpment-11517.herokuapp.com/
 
 - Express
 - Node.js
-- ORM
 <br>
 <br>
 <br>
